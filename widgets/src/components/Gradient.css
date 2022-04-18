@@ -1,0 +1,7 @@
+.gradient {
+    color: radial-gradient(circle farthest-corner at center center, #EC2F4B 1%, #009FFF 100%);
+}
+
+.gradient p {
+    color: radial-gradient(circle farthest-corner at center center, #EC2F4B 1%, #009FFF 100%);
+}

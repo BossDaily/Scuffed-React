@@ -1,5 +1,5 @@
 import React from "react";
-import Accordion from "./components/Accordion";
+import AccordionList from "./components/Accordion";
 
 const items = [
   {
@@ -20,7 +20,7 @@ const App = () => {
   return(
     <h1>
       Fard
-      <Accordion items={items} />
+      <AccordionList items={items} />
     </h1>
   )
 }

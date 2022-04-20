@@ -1,6 +1,6 @@
 import React from "react";
 import './Gradient.css'
-import Accordion from 'flowbite-react'
+import { Accordion } from 'flowbite-react'
 
 const AccordionList = ({ items }) => {
     const renderedItems = items.map(item => {

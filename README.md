@@ -1,4 +1,4 @@
-# Learning-React
+Learning-React
 This repo holds various projects I'm doing to learn React
 
 # Branches
@@ -11,3 +11,5 @@ Each branch is a different project so here is a list of them and a small descrip
 
 # What I am learning about rn
 **Hooks 😳**
+
+# This got scuffed due to some git issues Im moving this repo

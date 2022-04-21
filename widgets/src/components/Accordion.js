@@ -11,7 +11,7 @@ const Accordion = ({ items }) => {
         <div className="content active">
           <p>{item.content}</p>
         </div>
-      </React.Fragment> //fard
+      </React.Fragment> 
     );
   });
 
